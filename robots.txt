@@ -1,0 +1,5 @@
+# robots.txt gerado em http://www.ptwebsite.com
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://www.jobnetinfo.com.br/
